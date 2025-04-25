@@ -117,7 +117,7 @@
                                                             <div class="a26Xuw">
                                                                <div class="PcHy7w">
                                                                   <div class="uk_25A Ty61NA">
-                                                                     <div class="Izwocg" style="width: 24.1203px; height: 16.5827px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/aa5d8efb9db4b59c66defa15e807f663.png" draggable="false"></div>
+                                                                     <div class="Izwocg" style="width: 24.1203px; height: 16.5827px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/aa5d8efb9db4b59c66defa15e807f663.png" draggable="false"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -158,7 +158,7 @@
                                                             <div class="a26Xuw">
                                                                <div class="PcHy7w">
                                                                   <div class="uk_25A Ty61NA">
-                                                                     <div class="Izwocg" style="width: 2091.67px; height: 1275.92px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/dd6721a21e4482bb0a8cf5412d37d983.jpg" draggable="false"></div>
+                                                                     <div class="Izwocg" style="width: 2091.67px; height: 1275.92px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/dd6721a21e4482bb0a8cf5412d37d983.jpg" draggable="false"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -206,7 +206,7 @@
                                                       <div class="a26Xuw">
                                                          <div class="PcHy7w">
                                                             <div class="uk_25A Ty61NA">
-                                                               <div class="Izwocg" style="width: 605.288px; height: 605.288px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/a0712d65d750f1b7e8c2d9ecc5874131.jpg" draggable="false"></div>
+                                                               <div class="Izwocg" style="width: 605.288px; height: 605.288px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/a0712d65d750f1b7e8c2d9ecc5874131.jpg" draggable="false"></div>
                                                             </div>
                                                          </div>
                                                       </div>
@@ -236,7 +236,7 @@
                                                             <div class="a26Xuw">
                                                                <div class="PcHy7w">
                                                                   <div class="uk_25A Ty61NA">
-                                                                     <div class="Izwocg" style="width: 70.861px; height: 70.861px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/d1e455642e05286bc9d5dc2a3aa746d2.png" draggable="false"></div>
+                                                                     <div class="Izwocg" style="width: 70.861px; height: 70.861px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/d1e455642e05286bc9d5dc2a3aa746d2.png" draggable="false"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -292,7 +292,7 @@
                                                       <div class="a26Xuw">
                                                          <div class="PcHy7w">
                                                             <div class="uk_25A Ty61NA">
-                                                               <div class="Izwocg" style="width: 64.1402px; height: 64.1402px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/5195770ad9bc09f1addf53f62f52c3e9.png" draggable="false"></div>
+                                                               <div class="Izwocg" style="width: 64.1402px; height: 64.1402px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/5195770ad9bc09f1addf53f62f52c3e9.png" draggable="false"></div>
                                                             </div>
                                                          </div>
                                                       </div>
@@ -304,7 +304,7 @@
                                                       <div class="a26Xuw">
                                                          <div class="PcHy7w">
                                                             <div class="uk_25A Ty61NA">
-                                                               <div class="Izwocg" style="width: 74.224px; height: 74.224px; transform: translate(-2.13163e-14px, 1.56319e-13px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/b91ddc76b6382dda53bc9ac08b8ac8e1.png" draggable="false"></div>
+                                                               <div class="Izwocg" style="width: 74.224px; height: 74.224px; transform: translate(-2.13163e-14px, 1.56319e-13px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/b91ddc76b6382dda53bc9ac08b8ac8e1.png" draggable="false"></div>
                                                             </div>
                                                          </div>
                                                       </div>
@@ -316,7 +316,7 @@
                                                       <div class="a26Xuw">
                                                          <div class="PcHy7w">
                                                             <div class="uk_25A Ty61NA">
-                                                               <div class="Izwocg" style="width: 64.0641px; height: 64.0641px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/0342503d6d4fe5431e7db0538d57e058.png" draggable="false"></div>
+                                                               <div class="Izwocg" style="width: 64.0641px; height: 64.0641px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/0342503d6d4fe5431e7db0538d57e058.png" draggable="false"></div>
                                                             </div>
                                                          </div>
                                                       </div>
@@ -373,7 +373,7 @@
                                                       <div class="a26Xuw">
                                                          <div class="PcHy7w">
                                                             <div class="uk_25A Ty61NA">
-                                                               <div class="Izwocg" style="width: 168.54px; height: 37.6661px; transform: translate(-1.42109e-14px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/c0faa57d6ac07f1092135c056bcebca9.png" draggable="false"></div>
+                                                               <div class="Izwocg" style="width: 168.54px; height: 37.6661px; transform: translate(-1.42109e-14px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/c0faa57d6ac07f1092135c056bcebca9.png" draggable="false"></div>
                                                             </div>
                                                          </div>
                                                       </div>
@@ -385,7 +385,7 @@
                                                       <div class="a26Xuw">
                                                          <div class="PcHy7w">
                                                             <div class="uk_25A Ty61NA">
-                                                               <div class="Izwocg" style="width: 33.9661px; height: 33.9661px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/6c22977e656661450728fbfbf642a8fa.png" draggable="false"></div>
+                                                               <div class="Izwocg" style="width: 33.9661px; height: 33.9661px; transform: translate(0px, 0px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/6c22977e656661450728fbfbf642a8fa.png" draggable="false"></div>
                                                             </div>
                                                          </div>
                                                       </div>
@@ -417,7 +417,7 @@
                                                             <div class="a26Xuw">
                                                                <div class="PcHy7w">
                                                                   <div class="uk_25A Ty61NA" style="transform: scale(-1, 1);">
-                                                                     <div class="Izwocg" style="width: 441.883px; height: 431.941px; transform: translate(-2.84217e-14px, -28.4833px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/b6f6fc00f1fff44fb6a22af8ee74b28d.png" draggable="false"></div>
+                                                                     <div class="Izwocg" style="width: 441.883px; height: 431.941px; transform: translate(-2.84217e-14px, -28.4833px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/b6f6fc00f1fff44fb6a22af8ee74b28d.png" draggable="false"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -447,7 +447,7 @@
                                                             <div class="a26Xuw">
                                                                <div class="PcHy7w">
                                                                   <div class="uk_25A Ty61NA">
-                                                                     <div class="Izwocg" style="width: 394.416px; height: 690.228px; transform: translate(5.68434e-14px, 3.41061e-13px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/1edc6a80e64c5f502f780d2d33d1755c.png" draggable="false"></div>
+                                                                     <div class="Izwocg" style="width: 394.416px; height: 690.228px; transform: translate(5.68434e-14px, 3.41061e-13px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/1edc6a80e64c5f502f780d2d33d1755c.png" draggable="false"></div>
                                                                   </div>
                                                                </div>
                                                             </div>
@@ -550,7 +550,7 @@
                                                       <div class="a26Xuw">
                                                          <div class="PcHy7w">
                                                             <div class="uk_25A Ty61NA">
-                                                               <div class="Izwocg" style="width: 557.498px; height: 557.498px; transform: translate(-1.13687e-13px, -27.2644px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/b14bba2c7dd280a335587b2b2ec7d642.png" draggable="false"></div>
+                                                               <div class="Izwocg" style="width: 557.498px; height: 557.498px; transform: translate(-1.13687e-13px, -27.2644px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/b14bba2c7dd280a335587b2b2ec7d642.png" draggable="false"></div>
                                                             </div>
                                                          </div>
                                                       </div>
@@ -727,7 +727,7 @@
                                                       <div class="a26Xuw">
                                                          <div class="PcHy7w">
                                                             <div class="uk_25A Ty61NA">
-                                                               <div class="Izwocg" style="width: 290.885px; height: 218.164px; transform: translate(-11.1062px, -151.623px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/assets/media/eac80bca630f31408ba69814e3dd3b7b.png" draggable="false"></div>
+                                                               <div class="Izwocg" style="width: 290.885px; height: 218.164px; transform: translate(-11.1062px, -151.623px) rotate(0deg);"><img class="_7_i_XA" crossorigin="anonymous" src="/assets/media/eac80bca630f31408ba69814e3dd3b7b.png" draggable="false"></div>
                                                             </div>
                                                          </div>
                                                       </div>
