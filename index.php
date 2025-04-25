@@ -6,21 +6,21 @@
       <title>Copy of Website ENTIGI</title>
       <meta name="app-name" content="export_website">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link href="assets/a0684b0780c739e9.vendor.ltr.css" rel="stylesheet" integrity="sha512-JwMCpiHdk95MoUTatfaZJwstzeDnWfvWMJiwnSxZfPmgeCe4yvQDQ+ONMQjIy/Ht72r0TmlE+gvZnYRnpdLdVg==" crossorigin="anonymous">
-      <link href="assets/a704f31fce0ef263.ltr.css" rel="stylesheet" integrity="sha512-vZ3N22IqI7j/41KHmtb8T5aMpYNXJiGimQa/gHSGNftswkhRAdtAcWrK8GMNY6UiYKfVKzPxR3vPKmLIY1I0Aw==" crossorigin="anonymous">
-      <link href="assets/static_font_4.ltr.css" rel="stylesheet">
-      <link href="assets/4c4e948cd0ff84df.runtime.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-hdgaqEu4+MwQTyKucynk1EUN0WBA8VtTi49lLfUJ1LY8FA59OjJw/lZoCr2WsydeJpTi0TFW39hZxTQv078IFw==" nonce="">
-      <link href="assets/6b0b6cd7b4380852.i3d79q.vendor.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-glSI1ZcMUx+fEJqWv9YcgE1tNCr56/uOkUR+FNrA606NNtXNGexG48WkOpi04ftgEqTi5xPNF+dwTGeSe9T0aw==" nonce="">
-      <link href="assets/163fe08cc92707ff.vendor.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-YMQRfn/sM65IQgeaqPuiZfZej9zhMNnxKXiqlTmcGSalZNW8YrKD8uextmkuXTnMJq9tQwVYTruNsysBr4abtw==" nonce="">
-      <link href="assets/2675ec4d0dae5e19.strings.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-nItcVF8yq+aSb8r1mYsDosDf6Q1ZQsOQ+wZ+IUetB0zHf+9N0YyA3C3BqcLkFJxuMxm3Kg+prsFZ44lczS+SGg==" nonce="">
-      <link href="assets/898376721adbdf4f.en.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-KruFPYdahPUF8LVFWdZ7RHMlmkrjdFX5LQbtJPP+5bKI6k4MRndlVdWAbbtlWj/P04yppfaWo9LoeOJD9Dbyww==" nonce="">
-      <link href="assets/69dc1d1a95282a58.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-dRrHrUWZ6xsSP04EH6pPaCglZHj0Bn+CrN+jhQ+V4xk9MZGRYYEB75ikwCZpTJKJryYWQbD/O9uzFrjYLH863A==" nonce="">
+      <link href="/assets/a0684b0780c739e9.vendor.ltr.css" rel="stylesheet" integrity="sha512-JwMCpiHdk95MoUTatfaZJwstzeDnWfvWMJiwnSxZfPmgeCe4yvQDQ+ONMQjIy/Ht72r0TmlE+gvZnYRnpdLdVg==" crossorigin="anonymous">
+      <link href="/assets/a704f31fce0ef263.ltr.css" rel="stylesheet" integrity="sha512-vZ3N22IqI7j/41KHmtb8T5aMpYNXJiGimQa/gHSGNftswkhRAdtAcWrK8GMNY6UiYKfVKzPxR3vPKmLIY1I0Aw==" crossorigin="anonymous">
+      <link href="/assets/static_font_4.ltr.css" rel="stylesheet">
+      <link href="/assets/4c4e948cd0ff84df.runtime.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-hdgaqEu4+MwQTyKucynk1EUN0WBA8VtTi49lLfUJ1LY8FA59OjJw/lZoCr2WsydeJpTi0TFW39hZxTQv078IFw==" nonce="">
+      <link href="/assets/6b0b6cd7b4380852.i3d79q.vendor.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-glSI1ZcMUx+fEJqWv9YcgE1tNCr56/uOkUR+FNrA606NNtXNGexG48WkOpi04ftgEqTi5xPNF+dwTGeSe9T0aw==" nonce="">
+      <link href="/assets/163fe08cc92707ff.vendor.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-YMQRfn/sM65IQgeaqPuiZfZej9zhMNnxKXiqlTmcGSalZNW8YrKD8uextmkuXTnMJq9tQwVYTruNsysBr4abtw==" nonce="">
+      <link href="/assets/2675ec4d0dae5e19.strings.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-nItcVF8yq+aSb8r1mYsDosDf6Q1ZQsOQ+wZ+IUetB0zHf+9N0YyA3C3BqcLkFJxuMxm3Kg+prsFZ44lczS+SGg==" nonce="">
+      <link href="/assets/898376721adbdf4f.en.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-KruFPYdahPUF8LVFWdZ7RHMlmkrjdFX5LQbtJPP+5bKI6k4MRndlVdWAbbtlWj/P04yppfaWo9LoeOJD9Dbyww==" nonce="">
+      <link href="/assets/69dc1d1a95282a58.js" rel="preload" as="script" crossorigin="anonymous" integrity="sha512-dRrHrUWZ6xsSP04EH6pPaCglZHj0Bn+CrN+jhQ+V4xk9MZGRYYEB75ikwCZpTJKJryYWQbD/O9uzFrjYLH863A==" nonce="">
       <meta name="referrer" content="strict-origin-when-cross-origin">
       <meta property="og:title" content="Copy of Website ENTIGI">
       <meta property="og:type" content="website">
-      <link rel="shortcut icon" href="assets/images/2d0b56e7e51cf11036ad8734bdb67e2d.png">
-      <link rel="icon" href="assets/images/e53c4bd8da5e491d9ab09e7cf0daf874.png" sizes="192x192">
-      <link rel="apple-touch-icon" href="assets/images/725b756a69a7d4c235070e51acd85560.png" sizes="180x180">
+      <link rel="shortcut icon" href="/assets/images/2d0b56e7e51cf11036ad8734bdb67e2d.png">
+      <link rel="icon" href="/assets/images/e53c4bd8da5e491d9ab09e7cf0daf874.png" sizes="192x192">
+      <link rel="apple-touch-icon" href="/assets/images/725b756a69a7d4c235070e51acd85560.png" sizes="180x180">
       <script nonce="">
          document.addEventListener('contextmenu', (e) => {
            const isMedia = ['img', 'image', 'video', 'svg', 'picture'].some(
@@ -58,10 +58,10 @@
       </script>
       <style type="text/css"></style>
       <style type="text/css"></style>
-      <link rel="stylesheet" type="text/css" href="assets/9abc6146f4633109.ltr.css">
-      <link rel="stylesheet" type="text/css" href="assets/18e6498382718900.ltr.css">
-      <link rel="stylesheet" type="text/css" href="assets/106ff6d2a1d1c94c.ltr.css">
-      <link rel="stylesheet" type="text/css" href="assets/5b7fe8f909b06739.ltr.css">
+      <link rel="stylesheet" type="text/css" href="/assets/9abc6146f4633109.ltr.css">
+      <link rel="stylesheet" type="text/css" href="/assets/18e6498382718900.ltr.css">
+      <link rel="stylesheet" type="text/css" href="/assets/106ff6d2a1d1c94c.ltr.css">
+      <link rel="stylesheet" type="text/css" href="/assets/5b7fe8f909b06739.ltr.css">
    </head>
    <body>
       <script nonce="">document.documentElement.classList.replace('adaptive', window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');</script>
