@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en" class="theme light EHoceA">
    <head>
-      <base href="/copy-of-website-entigi/">
+      <base href="/">
       <meta charset="utf-8">
-      <title>Copy of Website ENTIGI</title>
+      <title>ENTIGI</title>
       <meta name="app-name" content="export_website">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link href="/assets/a0684b0780c739e9.vendor.ltr.css" rel="stylesheet" integrity="sha512-JwMCpiHdk95MoUTatfaZJwstzeDnWfvWMJiwnSxZfPmgeCe4yvQDQ+ONMQjIy/Ht72r0TmlE+gvZnYRnpdLdVg==" crossorigin="anonymous">
