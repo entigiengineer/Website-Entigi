@@ -1310,9 +1310,10 @@
                                                                   <div class="FJA3UA">
                                                                      <button aria-label="Toggle mute" aria-describedby=":r0:0" class="_3NW_OA MWNIKw">
                                                                         <span aria-hidden="true" class="lM4cjQ NA_Img dkWypw">
-                                                                           <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                                            <img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/_assets/media/b14bba2c7dd280a335587b2b2ec7d642.png" draggable="false">
+                                                                           <!-- <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
                                                                               <path fill-rule="evenodd" clip-rule="evenodd" d="m15.5 5.08-3.742 3.171a2.5 2.5 0 0 1-.243.182L15.5 12.4V5.08zm1.5 8.814V4.002a1 1 0 0 0-1.646-.763l-4.566 3.868a1 1 0 0 1-.398.206L6.53 3.468a.75.75 0 1 0-1.06 1.063l14 13.94a.75.75 0 1 0 1.06-1.063L17 13.894zM6.293 7.637l1.208 1.207H7.5v5.8h2.642a2.5 2.5 0 0 1 1.616.593l3.742 3.17v-1.564l1.5 1.5v1.143a1 1 0 0 1-1.646.763l-4.566-3.868a1 1 0 0 0-.646-.237H7a1 1 0 0 1-1-1v-6.8c0-.276.112-.526.293-.707z" fill="currentColor"></path>
-                                                                           </svg>
+                                                                           </svg> -->
                                                                         </span>
                                                                      </button>
                                                                   </div>
@@ -1335,10 +1336,12 @@
                                                 <div class="thT2yw" style="transform: rotate(0deg);">
                                                    <button aria-label="Pause" class="qGs8mQ BDjDQQ" tabindex="-1" type="button">
                                                       <span aria-hidden="true" class="KGHx9g NA_Img dkWypw">
-                                                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                                                        <img class="_7_i_XA" crossorigin="anonymous" src="https://entigi.my.canva.site/copy-of-website-entigi/_assets/media/b14bba2c7dd280a335587b2b2ec7d642.png" draggable="false">
+
+                                                         <!-- <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
                                                             <rect x="7" y="5" width="3" height="14" rx="1.5" fill="currentColor"></rect>
                                                             <rect x="14" y="5" width="3" height="14" rx="1.5" fill="currentColor"></rect>
-                                                         </svg>
+                                                         </svg> -->
                                                       </span>
                                                    </button>
                                                 </div>
